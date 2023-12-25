@@ -1,6 +1,5 @@
-```go
-fmt.Println("Hello :raised_hand")
-```
+### Hello :raised_hand
+
 
 <!--
 **auuunya/auuunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
