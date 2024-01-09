@@ -1,5 +1,8 @@
-### Hello :raised_hand:
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3FF704&random=false&width=435&lines=Hello...I'm+Auuu+Nya;This+is...+My+Github" alt="Typing SVG" />
+    </h1>
+</div>
 
 <!--
 **auuunya/auuunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
