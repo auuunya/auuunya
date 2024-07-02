@@ -1,5 +1,5 @@
 <div align="center">
-    <span>✨</span><span style="">Hello, Code</span>
+    <span>✨</span><span style="width:0.2em;"></span><span style="">Hello, Code</span>
 </div>
 
 <!--
