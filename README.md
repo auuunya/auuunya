@@ -1,7 +1,5 @@
 <div align="center">
-    <h1>
-        Hello Coder!!!
-    </h1>
+    <span>✨</span><span style="">Hello, Code</span>
 </div>
 
 <!--
