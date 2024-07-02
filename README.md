@@ -1,6 +1,6 @@
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=3FF704&random=false&width=435&lines=Hello...I'm+Auuu+Nya;This+is...+My+Github" alt="Typing SVG" />
+        Hello Coder!!!
     </h1>
 </div>
 
