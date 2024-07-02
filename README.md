@@ -1,5 +1,7 @@
 <div align="center">
-    <span>✨</span><span style="width:0.2em;"></span><span style="">Hello, Code</span>
+    <div><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span></div>
+    <div><span style="">Hello, Code</span></div>
+    <div><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span></div>
 </div>
 
 <!--
