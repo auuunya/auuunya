@@ -1,6 +1,6 @@
 <div align="center">
     <div><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span></div>
-    <div><span style="">Hello, Code</span></div>
+    <div><span style="">Hello </span></div>
     <div><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span><span>✨</span></div>
 </div>
 
